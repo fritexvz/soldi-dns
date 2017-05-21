@@ -21,7 +21,7 @@ conventions and tools for building *decentralized Web* based on
 
 Specifically, Soldi-dns is:
 
-* Platform which connects Social Data, Public Data and Social Linked Data. Thanks to current DOmain Name System (www.dns.hr) we can have one unique Digital Identity. 
+* Platform which connects Social Data, Public Data and Social Linked Data. Thanks to current Domain Name System (www.dns.hr) we can have one unique Digital Identity. 
 
 ## Standards Used
 
