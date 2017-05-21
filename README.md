@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/SOLDI--DNS-development-blue.svg)](https://github.com/fritexvz/soldi-dns)
 
-![Soldi Logo](https://avatars3.githubusercontent.com/u/14262490?v=3&s=200)
+![Soldi-dns Logo](https://github.com/fritexvz/soldi-dns/blob/master/logo/soldi_200.png)
 
 > Re-decentralizing the DNS.hr with digital identity .from.hr
 
