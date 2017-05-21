@@ -1,6 +1,8 @@
 # Soldi-dns
 
-[![](https://img.shields.io/badge/SOLDI--DNS-development-blue.svg)](https://github.com/fritexvz/soldi-dns)
+[![Soldi-dns](https://img.shields.io/badge/SOLDI--DNS-development-blue.svg)](https://github.com/fritexvz/soldi-dns) [![Soldi-dns](https://img.shields.io/aur/license/yaourt.svg)]() [![Soldi-dns](https://img.shields.io/travis/rust-lang/rust.svg)]() [![Soldi-dns](https://img.shields.io/badge/version-1.0.0.-orange.svg)]()
+
+[![Soldi-dns](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)]() [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)]() [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
 
 ![Soldi-dns Logo](https://github.com/fritexvz/soldi-dns/blob/master/logo/soldi_200.png)
 
