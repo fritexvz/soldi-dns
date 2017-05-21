@@ -15,7 +15,9 @@ conventions and tools for building *decentralized Web* based on
 
 1. [About Soldi](#about-soldi-dns)
 2. [Standards Used](#standards-used)
-3. [Contributing to Soldi-dns](#contributing-to-soldi-dns)
+3. [Online Survey] (#survey)
+4. [Contributing to Soldi-dns](#contributing-to-soldi-dns)
+5. [Licence] (#licence)
 
 ## About Soldi-dns
 
@@ -38,9 +40,7 @@ The Soldi-dns platform uses the following standards.
 
 * [WebID Profile](http://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile)
 
-* Authentication:
-
-  [WebID-TLS protocol](http://www.w3.org/2005/Incubator/webid/spec/tls/), 
+* [WebID-TLS protocol](http://www.w3.org/2005/Incubator/webid/spec/tls/), 
   [public keys](https://en.wikipedia.org/wiki/Public-key_cryptography), 
   [X.509 Certificates](https://en.wikipedia.org/wiki/X.509), 
   [Cert Ontology 1.0](http://www.w3.org/ns/auth/cert), 
@@ -49,11 +49,16 @@ The Soldi-dns platform uses the following standards.
 
 * HTML5 [keygen element](http://www.w3.org/TR/html5/forms.html#the-keygen-element)
 
-* Authorization and access:
-  [Basic Access Control ontology](http://www.w3.org/ns/auth/acl)
+* [Basic Access Control ontology](http://www.w3.org/ns/auth/acl)
 
 * [Linked Data Platform (LDP)](http://www.w3.org/TR/ldp/), 
   ([LDP Primer](http://www.w3.org/TR/ldp-primer/)).
+
+## Online Survey
+
+   The survey takes 1 minute. Of course, your answers will be thoroughly familiar and will only be published in an anonymous form.
+   
+ * [Digital Identity] (https://goo.gl/forms/nozW7gXDzRCMx8ks2)
 
 ## Contributing to Soldi-dns
 
