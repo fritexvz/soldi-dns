@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc= "http://purl.org/dc/elements/1.1/">
+    <rdf:Description rdf:about="http://www.tomislavnovak.com.hr/">
+        <dc:contributor>Tomislav Novak</dc:contributor>
+        <dc:date>2017-05-22</dc:date>
+        <dc:description>Tomislav Novak</dc:description>
+        <dc:language>HR</dc:language>
+        <dc:publisher>Tomislav Novak</dc:publisher>
+        <dc:source>http://www.tomislavnovak.com.hr/</dc:source>
+		<dc:subject>Web development</dc:subject>
+		<dc:creator>Tomislav Novak</dc:creator>
+    </rdf:Description>
+</rdf:RDF>
