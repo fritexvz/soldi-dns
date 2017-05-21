@@ -66,5 +66,5 @@ The Soldi-dns platform uses the following standards.
 
 ## Licence
 
- This project is licensed under the MIT License - see the LICENSE.md file for details.
+ This project is licensed under the GNU v3 License - see the LICENSE.md file for details.
  Copyright 2017 Fritex.
