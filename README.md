@@ -27,35 +27,36 @@ Specifically, Soldi-dns is:
 
 The Soldi-dns platform uses the following standards.
 
-* [RDF 1.1 (Resource Description Framework)](http://www.w3.org/RDF/)
-  [Turtle](http://www.w3.org/TR/turtle/)
-  [JSON-LD](http://www.w3.org/TR/json-ld/)
-  [RDFa](http://www.w3.org/TR/rdfa-primer/)
+* [RDF 1.1 (Resource Description Framework)](http://www.w3.org/RDF/), 
+  [Turtle](http://www.w3.org/TR/turtle/), 
+  [JSON-LD](http://www.w3.org/TR/json-ld/), 
+  [RDFa](http://www.w3.org/TR/rdfa-primer/).
 
 *
   [WebID interoperability notes](http://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability)
 
 * [WebID Profile](http://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile)
 
-* [FOAF vocabulary](http://xmlns.com/foaf/0.1/).
-  [Turtle](http://www.w3.org/TR/turtle/)
-  [JSON-LD](http://www.w3.org/TR/json-ld/) (JSON with a "context")
+* [FOAF vocabulary](http://xmlns.com/foaf/0.1/), 
+  [Turtle](http://www.w3.org/TR/turtle/), 
+  [JSON-LD](http://www.w3.org/TR/json-ld/).
 
 * Authentication:
-  [WebID-TLS protocol](http://www.w3.org/2005/Incubator/webid/spec/tls/)
-  [public keys](https://en.wikipedia.org/wiki/Public-key_cryptography)
-  [X.509 Certificates](https://en.wikipedia.org/wiki/X.509)
-  [Cert Ontology 1.0](http://www.w3.org/ns/auth/cert)
-  [HTTP over TLS](https://tools.ietf.org/html/rfc2818) protocol
-  [Certificate Authority](https://en.wikipedia.org/wiki/Certificate_authority)
+
+  [WebID-TLS protocol](http://www.w3.org/2005/Incubator/webid/spec/tls/), 
+  [public keys](https://en.wikipedia.org/wiki/Public-key_cryptography), 
+  [X.509 Certificates](https://en.wikipedia.org/wiki/X.509), 
+  [Cert Ontology 1.0](http://www.w3.org/ns/auth/cert), 
+  [HTTP over TLS](https://tools.ietf.org/html/rfc2818), 
+  [Certificate Authority](https://en.wikipedia.org/wiki/Certificate_authority).
 
 * HTML5 [keygen element](http://www.w3.org/TR/html5/forms.html#the-keygen-element)
 
 * Authorization and access:
   [Basic Access Control ontology](http://www.w3.org/ns/auth/acl)
 
-* [Linked Data Platform (LDP)](http://www.w3.org/TR/ldp/)
-  ([LDP Primer](http://www.w3.org/TR/ldp-primer/))
+* [Linked Data Platform (LDP)](http://www.w3.org/TR/ldp/), 
+  ([LDP Primer](http://www.w3.org/TR/ldp-primer/)).
 
 ## Contributing to Soldi-dns
 
