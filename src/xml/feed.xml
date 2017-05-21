@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
+<channel>
+	<title>Tomislav Novak</title>
+	<atom:link href="http://www.me.from.hr/feed.xml" rel="self" type="application/rss+xml" />
+	<link>http://www.me.from.hr</link>
+	<description>Tomislav Novak.</description>
+	<lastBuildDate>Mon, 22 May 2017 00:57:25 +0000</lastBuildDate>
+	<language>hr</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<item>
+		<title>Tomislav Novak</title>
+		<link>http://www.me.from.hr//</link>
+		<comments>http://www.me.from.hr/#comments</comments>
+		<pubDate>Mon, 22 May 2017 00:57:00 +0000</pubDate>
+		<dc:creator><![CDATA[Tomislav Novak]]></dc:creator>
+		<category><![CDATA[Web Development]]></category>
+		<guid isPermaLink="false">http://www.me.from.hr/</guid>
+		<description><![CDATA[Tomislav Novak]]></description>
+		<wfw:commentRss>http://www.me.from.hr/me.xml</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	</item>
+</channel>
+</rss>
