@@ -30,16 +30,13 @@ The Soldi-dns platform uses the following standards.
 * [RDF 1.1 (Resource Description Framework)](http://www.w3.org/RDF/), 
   [Turtle](http://www.w3.org/TR/turtle/), 
   [JSON-LD](http://www.w3.org/TR/json-ld/), 
-  [RDFa](http://www.w3.org/TR/rdfa-primer/).
+  [RDFa](http://www.w3.org/TR/rdfa-primer/), 
+  [FOAF vocabulary](http://xmlns.com/foaf/0.1/).
 
 *
   [WebID interoperability notes](http://www.w3.org/2005/Incubator/webid/wiki/Identity_Interoperability)
 
 * [WebID Profile](http://www.w3.org/2005/Incubator/webid/spec/identity/#dfn-webid_profile)
-
-* [FOAF vocabulary](http://xmlns.com/foaf/0.1/), 
-  [Turtle](http://www.w3.org/TR/turtle/), 
-  [JSON-LD](http://www.w3.org/TR/json-ld/).
 
 * Authentication:
 
