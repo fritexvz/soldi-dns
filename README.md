@@ -47,7 +47,7 @@ The Soldi-dns platform uses the following standards.
   [HTTP over TLS](https://tools.ietf.org/html/rfc2818), 
   [Certificate Authority](https://en.wikipedia.org/wiki/Certificate_authority).
 
-* HTML5 [keygen element](http://www.w3.org/TR/html5/forms.html#the-keygen-element)
+* [HTML5 keygen element](http://www.w3.org/TR/html5/forms.html#the-keygen-element)
 
 * [Basic Access Control ontology](http://www.w3.org/ns/auth/acl)
 
