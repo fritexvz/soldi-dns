@@ -2,7 +2,7 @@
 
 [![Soldi-dns](https://img.shields.io/badge/SOLDI--DNS-development-blue.svg)](https://github.com/fritexvz/soldi-dns) [![Soldi-dns](https://img.shields.io/aur/license/yaourt.svg)](https://raw.githubusercontent.com/fritexvz/soldi-dns/master/LICENSE) [![Soldi-dns](https://img.shields.io/travis/rust-lang/rust.svg)]() [![Soldi-dns](https://img.shields.io/badge/version-v1.0.0.-orange.svg)]()
 
-[![Soldi-dns](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/fritexvz/soldi-dns/network) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/fritexvz/soldi-dns/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)]()
+[![Soldi-dns](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/fritexvz/soldi-dns/network) [![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/fritexvz/soldi-dns/stargazers) [![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/fritexvz/soldi-dns/subscription) [![Twitter](https://img.shields.io/twitter/url/https/github.com/fritexvz/soldi-dns.svg?style=social)](https://twitter.com/intent/tweet?text=Soldi-dns .from.hr:&url=https://github.com/fritexvz/soldi-dns/)
 
 ![Soldi-dns Logo](https://github.com/fritexvz/soldi-dns/blob/master/logo/soldi_200.png)
 
