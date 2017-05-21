@@ -1,0 +1,17 @@
+{
+  "@context": "http://www.schema.org",
+  "@type": "person",
+  "name": "Name",
+  "jobTitle": "Job Title",
+  "url": "http://www.me.from.hr/",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "City name",
+    "addressRegion": "State name",
+    "postalCode": "Postal code",
+    "addressCountry": "Country name"
+  },
+  "email": "email@me.from.hr",
+  "telephone": "+385(0) XX XXX XXXX",
+  "birthDate": "XXXX-XX-XX"
+}
