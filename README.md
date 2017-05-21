@@ -21,7 +21,7 @@ conventions and tools for building *decentralized Web* based on
 
 Specifically, Soldi-dns is:
 
-* test
+* Platform which connects Social Data, Public Data and Social Linked Data. Thanks to current DOmain Name System (www.dns.hr) we can have one unique Digital Identity. 
 
 ## Standards Used
 
@@ -59,9 +59,9 @@ The Soldi-dns platform uses the following standards.
 
 ## Contributing to Soldi-dns
 
-  test
+  Feel free to join and create some code!
 
 ## Licence
 
- This project is licensed under the MIT License - see the LICENSE.md file for details
- Copyright 2017 Fritex. Code released under the MIT license.
+ This project is licensed under the MIT License - see the LICENSE.md file for details.
+ Copyright 2017 Fritex.
