@@ -15,9 +15,9 @@ conventions and tools for building *decentralized Web* based on
 
 1. [About Soldi](#about-soldi-dns)
 2. [Standards Used](#standards-used)
-3. [Online Survey] (#survey)
+3. [Online Survey](#online-survey)
 4. [Contributing to Soldi-dns](#contributing-to-soldi-dns)
-5. [Licence] (#licence)
+5. [Licence](#licence)
 
 ## About Soldi-dns
 
@@ -58,7 +58,7 @@ The Soldi-dns platform uses the following standards.
 
    The survey takes 1 minute. Of course, your answers will be thoroughly familiar and will only be published in an anonymous form.
    
- * [Digital Identity] (https://goo.gl/forms/nozW7gXDzRCMx8ks2)
+ * [Digital Identity](https://goo.gl/forms/nozW7gXDzRCMx8ks2)
 
 ## Contributing to Soldi-dns
 
